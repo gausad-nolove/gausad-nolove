@@ -1,10 +1,10 @@
 #!name=Youtube Premium 
-#!desc=Unlock Gấu 
+#!desc=Unlock Gấuytb 1001 
 
  
 /****************************** 
-📌 Tác Giả：gau 
-📌 Cập Nhật：001      
+📌 Tác Giả：unlockytb  
+📌 Cập Nhật：3728392      
 ******************************/ 
 
  
